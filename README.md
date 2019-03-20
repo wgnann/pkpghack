@@ -1,5 +1,5 @@
 # pkpghack
-Trata-se de um hack do [pkpgcounter](https://github.com/barracks510/pkpgcounter) que corrige porcamente o problema 
+Trata-se de um hack do [pkpgcounter](https://github.com/barracks510/pkpgcounter) que corrige porcamente o problema de contar páginas em PDF.
 
 ## Instalação assistida
   ./install.sh
